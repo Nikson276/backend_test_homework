@@ -1,2 +1,1 @@
-print('Я домашка') #tet git reset 
-
+print('Я домашка')
